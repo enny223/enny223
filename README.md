@@ -4,7 +4,7 @@ Data Scientist & ML Engineer | M.S. Data Science & Analytics (University of Okla
 
 I build end-to-end ML systems — from data pipelines through modeling, fairness auditing, and deployment — across finance, security, operations, and sustainable design. Currently job searching for federal/DoD, defense contractor, and private sector data science roles.
 
-📫 [LinkedIn](#) &nbsp;·&nbsp; enochob@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/enoch-oseibonsu-6b1baa202/) &nbsp;·&nbsp; enochob@gmail.com
 
 ---
 
