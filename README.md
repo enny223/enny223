@@ -15,10 +15,13 @@ Multi-schema PostgreSQL credit risk platform (SBA, FRED, BLS, FDIC data) with Li
 
 ---
 
-## 🔐 Security & Biometrics
+🔐 Security & Biometrics
 
-**[behavioral-fingerprint-anomaly](https://github.com/enny223/behavioral-fingerprint-anomaly)**
+behavioral-fingerprint-anomaly
 One-Class SVM anomaly detection on keystroke and mouse dynamics (EER ~10.85%) with a Streamlit triage console for behavioral biometric authentication.
+
+network-intrusion-detection
+Binary intrusion detection on CICIDS2017 flow data comparing XGBoost, Random Forest, and Logistic Regression against unsupervised Isolation Forest and One-Class SVM baselines (F1 0.997) — with an honest failure analysis showing a 50% miss rate on rare Infiltration attacks despite the strong aggregate score.
 
 ---
 
